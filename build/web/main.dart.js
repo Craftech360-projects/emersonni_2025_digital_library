@@ -52711,7 +52711,7 @@ f=A.ev(j.b,h,h)
 f.h(0,"Prefer","")
 s=6
 return A.p(A.Iz(j.a14(g,f,"POST",j.f),A.n(j).j("w3.T")),$async$zE)
-case 6:m="https://digital-library-emersonni2025.vercel.app/#/download?token="+A.k(n)
+case 6:m="https://emersonni-2025-digital-library.vercel.app/#/download?token="+A.k(n)
 l=new A.ar(a,new A.ai8(),A.a1(a).j("ar<1,f>")).cn(0,"\n")
 s=7
 return A.p(A.aSR("service_zpxd5mr","template_mfp3epc",A.U(["email",c,"name",B.b.gX(c.split("@")),"download_link",m,"books_list",l,"book_count",B.e.l(a.length),"expiry_days","3","order_date",new A.cH(Date.now(),0,!1).agT().l(0).split(" ")[0]],h,t.z),B.HQ),$async$zE)
