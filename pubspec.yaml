@@ -30,8 +30,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/
-    - assets/.env
-    - lib/template/email_template.html
+    # - lib/template/email_template.html
 
   fonts:
     - family: NotoSans
