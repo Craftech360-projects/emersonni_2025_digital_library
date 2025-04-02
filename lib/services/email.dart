@@ -41,7 +41,7 @@ class EmailService {
 
       // Create download link with hash
       final downloadLink =
-          'https://emersonni-2025-digital-library.vercel.app/#/download?token=$downloadToken';
+          'https://emersonni-2025-digital-library-one.vercel.app/#/download?token=$downloadToken';
 
       // Format book list for email
       final booksList =
