@@ -3,7 +3,7 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 import 'package:uuid/uuid.dart';
 
 class EmailService {
-  static const String _serviceId = 'service_7ck1wvo';
+  static const String _serviceId = 'service_zpxd5mr';
   // 'service_4okniss';
   static const String _templateId = 'template_mfp3epc';
   //  'template_99s8twi';
