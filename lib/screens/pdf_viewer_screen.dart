@@ -121,7 +121,7 @@ class _PDFViewerScreenState extends State<PDFViewerScreen> {
                       controller: _pdfViewerController,
                       enableTextSelection: true,
                       enableDocumentLinkAnnotation: true,
-                      enableDoubleTapZooming: true,
+                      enableDoubleTapZooming: false,
                       pageSpacing: 4,
                       onDocumentLoadFailed:
                           (PdfDocumentLoadFailedDetails details) {

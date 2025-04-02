@@ -52646,7 +52646,7 @@ p=n.r
 p===$&&A.a()
 o=new A.aDm()
 o.a=q
-k=A.er(A.bG(m,new A.JV(o,!0,4,p,!0,!0,new A.aM4(),new A.aM5(a),n.f),B.m,m,m,new A.c_(m,m,r,s,m,m,B.L),m,1/0,new A.ah(16,16,16,16),new A.ah(8,8,8,8),k.a.a*0.4),m,m)}return A.Jn(l,k)},
+k=A.er(A.bG(m,new A.JV(o,!0,4,p,!1,!0,new A.aM4(),new A.aM5(a),n.f),B.m,m,m,new A.c_(m,m,r,s,m,m,B.L),m,1/0,new A.ah(16,16,16,16),new A.ah(8,8,8,8),k.a.a*0.4),m,m)}return A.Jn(l,k)},
 n(){var s=this.r
 s===$&&A.a()
 s.L$=$.aG()
@@ -52711,7 +52711,7 @@ f=A.ev(j.b,h,h)
 f.h(0,"Prefer","")
 s=6
 return A.p(A.Iz(j.a14(g,f,"POST",j.f),A.n(j).j("w3.T")),$async$zE)
-case 6:m="https://emersonni-2025-digital-library.vercel.app/#/download?token="+A.k(n)
+case 6:m="https://emersonni-2025-digital-library-one.vercel.app/#/download?token="+A.k(n)
 l=new A.ar(a,new A.ai8(),A.a1(a).j("ar<1,f>")).cn(0,"\n")
 s=7
 return A.p(A.aSR("service_zpxd5mr","template_mfp3epc",A.U(["email",c,"name",B.b.gX(c.split("@")),"download_link",m,"books_list",l,"book_count",B.e.l(a.length),"expiry_days","3","order_date",new A.cH(Date.now(),0,!1).agT().l(0).split(" ")[0]],h,t.z),B.HQ),$async$zE)
@@ -142328,7 +142328,7 @@ f=a.fy
 e=a.go
 d=a.z
 c=a.w
-return new A.Jz(!0,!0,!0,!0,s,r,d,b.d,b.gazC(),b.gazE(),b.gazA(),q,o,n,c,m,l,b.gaG0(),b.gaEw(),k,j,i,g,h,p,f,e,a.id,b.ch)},
+return new A.Jz(!0,!0,!0,!1,s,r,d,b.d,b.gazC(),b.gazE(),b.gazA(),q,o,n,c,m,l,b.gaG0(),b.gaEw(),k,j,i,g,h,p,f,e,a.id,b.ch)},
 azD(a){var s,r,q=this,p=q.d
 p===$&&A.a()
 q.f=p.a.jY()
@@ -144312,11 +144312,8 @@ a=new A.d(a.a,B.d.dA(a.b,0,Math.abs(i.at.b-i.ax.b/i.r.a)))}j.a.k2.$0()
 return a},
 W(a){var s,r,q,p,o,n,m,l,k,j,i=this
 $.a9.k3$.push(new A.ay2(i))
-s=!0
+s=i.a.dx===B.ne
 r=i.a
-q=r.dx
-if(q!==B.ne){r=r.w
-s=r}r=i.a
 q=r.k1
 p=r.x
 o=r.cx
@@ -148559,7 +148556,7 @@ a6=b2.RG
 a7=b2.gD0()
 a8=b2.cB
 a8.toString
-a9=new A.Ab(o,!0,!0,e,d,a3,B.ds,!0,a0,3,1,!0,a1,b1,m,a4,b2.gaAb(),b2.gayR(),a5,q,a6,s,a2,a7,a8,b2.gPk(),r)
+a9=new A.Ab(o,!0,!0,e,d,a3,B.ds,!0,a0,3,1,!1,a1,b1,m,a4,b2.gaAb(),b2.gayR(),a5,q,a6,s,a2,a7,a8,b2.gPk(),r)
 if(b2.bK){b1=r.gO()
 if(b1!=null)b1.rM(b2.bE)
 b2.bK=!1}$.a9.k3$.push(new A.aAu(b2,b3))
